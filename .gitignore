@@ -1,1 +1,12 @@
 Library/
+Temp/UnityLockfile
+Temp/workerlic
+Temp/FSTimeGet-04eeb83c9ffef364a9ca28e17fc4270a
+Logs/shadercompiler-UnityShaderCompiler.exe-4.log
+Logs/shadercompiler-UnityShaderCompiler.exe-3.log
+Logs/shadercompiler-UnityShaderCompiler.exe-2.log
+Logs/shadercompiler-UnityShaderCompiler.exe-1.log
+*.log
+GameJamGit.sln
+.vsconfig
+Logs/shadercompiler-UnityShaderCompiler.exe-0.log
